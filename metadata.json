@@ -1,0 +1,6 @@
+{
+  "name": "학습 효율 측정기",
+  "description": "학생들의 생활 습관이 학습 효율에 미치는 영향을 분석하고 실질 공부 시간을 계산하는 AI 기반 학습 코칭 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
